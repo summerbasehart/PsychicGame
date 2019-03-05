@@ -1,0 +1,20 @@
+body {
+    background-color: lavender;
+}
+
+#Header {
+    text-align: center;
+    color: darkmagenta;
+    border: black dotted;
+}
+
+#Game {
+    text-align: left;
+    color: darkgrey;
+    border: black dotted;
+}
+
+#photo {
+    align-content: right;
+    border: black dotted;
+}
